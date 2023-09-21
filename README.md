@@ -9,6 +9,6 @@ Criado pelas colaboradores do projeto: @karinalemes e @LunaSAMdev.
 ## Proposta de Interface do Usuário
 Criado como uma proposta base para a criação da interface do usuário
 para os desenvolvedores do código.
-Criado pelas colaboradores do projeto: @karinalemes e @LunaSAMdev.
+Criado pelas colaboradores do projeto: (@karinalemes) e (@LunaSAMdev).
 
 ![Alt text](./Proposta_Menu.png)
